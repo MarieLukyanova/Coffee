@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 sqlite3
 sys
 PyQt5
 PyQt5.QtWidgets 
 QApplication
 QMainWindow
+=======
+sqlite3
+sys
+PyQt5
+PyQt5.QtWidgets 
+QApplication
+QMainWindow
+>>>>>>> origin/master
 QTableWidgetItem
